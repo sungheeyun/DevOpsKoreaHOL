@@ -1,3 +1,4 @@
+# Thank you, Gauss Labs!
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
